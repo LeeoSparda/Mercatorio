@@ -40,18 +40,18 @@ Requests (requisições HTTP no script seed)
 
 mercatorioV2/
 ├── app/
-│   ├── main.py              # Entrada da aplicação FastAPI
-│   ├── models.py            # Modelos SQLAlchemy
-│   ├── schemas.py           # Modelos Pydantic
-│   ├── database.py          # Configuração do banco de dados
-│   ├── routes.py            # Definição das rotas da API
-│   ├── mock_certidoes.py    # API mock para retorno de certidões
-│   ├── utils.py             # Funções auxiliares
-│   ├── seed.py              # Script para popular dados na API
+│   ├── main.py              
+│   ├── models.py            
+│   ├── schemas.py           
+│   ├── database.py          
+│   ├── routes.py            
+│   ├── mock_certidoes.py    
+│   ├── utils.py             
+│   ├── seed.py              
 ├── static/
-│   └── index.html           # Interface HTML básica
-├── export/                  # Pasta para exportação de planilhas
-└── requirements.txt         # Dependências
+│   └── index.html           
+├── export/                  
+└── requirements.txt         
 
 ## Funcionalidades Principais
 
