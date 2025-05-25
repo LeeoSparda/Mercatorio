@@ -1,6 +1,6 @@
 # Mercatorio
 
-Mercatorio é um sistema baseado em Python com suporte a Docker, que utiliza um banco de dados SQLite para armazenar informações. O projeto parece focado em automações, integração de serviços, ou manipulação de dados — adapte esta descrição conforme o propósito real do sistema.
+
 
 ## Tecnologias utilizadas
 
