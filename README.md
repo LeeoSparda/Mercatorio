@@ -123,3 +123,17 @@ python app/seed.py
 Interface Swagger: http://127.0.0.1:8000/docs
 
 Interface HTML: http://127.0.0.1:8000/static/index.html
+
+| Biblioteca             | Função                                                                   |
+| ---------------------- | ------------------------------------------------------------------------ |
+| **FastAPI**            | Framework moderno e rápido para criação de APIs RESTful em Python.       |
+| **Uvicorn\[standard]** | Servidor ASGI leve e rápido usado para executar aplicações FastAPI.      |
+| **SQLAlchemy**         | ORM (Object-Relational Mapper) para integração com bancos de dados.      |
+| **Pydantic\[email]**   | Validação de dados baseada em modelos com suporte à validação de e-mail. |
+| **python-multipart**   | Suporte para upload de arquivos via formulários `multipart/form-data`.   |
+| **aiofiles**           | Manipulação assíncrona de arquivos, usado para salvar uploads.           |
+| **Jinja2**             | Motor de templates para renderização de páginas HTML dinâmicas.          |
+| **Passlib\[bcrypt]**   | Criptografia de senhas com hashing seguro via algoritmo Bcrypt.          |
+| **Pytest**             | Framework de testes automatizados para validação de funcionalidades.     |
+| **HTTPX**              | Cliente HTTP assíncrono para consumir APIs externas.                     |
+
